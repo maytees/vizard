@@ -6,7 +6,7 @@ Keep in mind that you will see very bad Typecript and react code, I'm learning, 
 
 ## Screenshots
 
-#### Homepage
+## Homepage
 ![homepage picture](https://github.com/maytees/vizard/blob/master/screenshots/homepage.png)
 
 ## Logout
